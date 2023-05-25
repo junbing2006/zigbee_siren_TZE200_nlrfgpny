@@ -1,7 +1,12 @@
 # zigbee_siren_TZE200_nlrfgpny
 This is the external converter file to support zigbee siren _TZE200_nlrfgpny. 
 
-See https://github.com/Koenkk/zigbee2mqtt/discussions/17325 for the discussion. 
+Credit: 
+This file is not my contribution, it is from discussion: https://github.com/Koenkk/zigbee2mqtt/discussions/17325 .
+ - exico91
+ - ParalaX002
+ - jakubjakubik
+ - (Feel free to add more creditors)
 
 
 
@@ -15,10 +20,10 @@ Usage:
     Add the below lines in zigbee2mqtt configuration.yaml file
 
 
-== configuration.yaml ==
-
+== Zigbee2MQTT configuration.yaml ==
+```json
 external_converters:
   - zigbee_siren_TZE200_nlrfgpny.js
-
+```
 
 
