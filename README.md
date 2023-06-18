@@ -26,6 +26,12 @@ external_converters:
   - zigbee_siren_TZE200_nlrfgpny.js
 ```
 
+
+melodys:
+ - melody1: Wu Ri, Wu Ri ...
+ - melody2: Kinds of air raid siren
+ - melody3: Wow, Wow (UK burglary siren?)
+   
 Another Converter (by tm81):    https://pastes.io/ymgizsqoyp
 
 
