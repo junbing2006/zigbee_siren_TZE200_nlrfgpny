@@ -26,4 +26,7 @@ external_converters:
   - zigbee_siren_TZE200_nlrfgpny.js
 ```
 
+Another Converter (by tm81):    https://pastes.io/ymgizsqoyp
+
+
 
